@@ -1,6 +1,6 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 <h3>Name: Senthil Kumar S</h3>
-<h3>Reg No: 21222120091</h3>
+<h3>Reg No: 212221230091</h3>
 <h3>Ex. No: 05</h3>
 <h3>Date: 30/04/2024</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
